@@ -1,0 +1,27 @@
+body {
+  margin: 10px;
+  height: 100vh;
+  background-color: #cad2e7;
+}
+.flex {
+  display: flex;
+}
+.martype {
+  margin-left: 80px;
+}
+.martop {
+  margin-top: 12px;
+}
+.roll {
+  border-radius: 25px;
+}
+.c1 {
+  background-color: #8a9cc5;
+  padding: 50px;
+}
+.c2 {
+  background-color: #678cbc;
+  padding-left: 20px;
+  padding-bottom: 700px;
+  margin-top: 10px;
+}
